@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "locateip"]
 	path = locateip
-	url = https://github.com/cran/locateip
+	url = https://github.com/judith-bourque/locateip
